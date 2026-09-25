@@ -1,8 +1,10 @@
-let doneBtn = document.getElementById(".done");
+let doneBtn = document.querySelector(".done");
 let inputValue = document.querySelector('.input');
 let quesDiv = document.querySelector(".ques");
 let genBtn = document.querySelector(".gen");
 
-doneBtn.addEventListener('click',()=>{
-    console.log("yo");
-})
+function generateQuestion() {
+    quesDiv.innerHTML = inputValue.value;
+}
+
+doneBtn.addEventListener('click',generateQuestion);
