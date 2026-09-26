@@ -11,8 +11,8 @@ guide to use
 <li>click on the "your answer is" button</li>
 
 how I made it?
-vs code : editor
-js,css and html: languages
+<li>vs code : editor</li>
+<li>js,css and html: languages</li>
 
 inspiration:
-Wanted to hit my brother and give him a fair chance too 
+<li>Wanted to hit my elder brother and give him a fair chance too </li>
